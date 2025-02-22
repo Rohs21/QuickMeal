@@ -56,5 +56,5 @@ To get started with QuickMeal, clone the repository and follow the installation 
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/yourusername/quickmeal.git
+   git clone https://github.com/Rohs21/quickmeal.git
    cd quickmeal
