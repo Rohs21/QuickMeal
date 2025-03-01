@@ -4,3 +4,13 @@
 .env.development
 .env.production
 .env.test
+
+
+
+
+# Ignore environment variable files in the backend folder
+backend/.env
+backend/.env.local
+backend/.env.development
+backend/.env.production
+backend/.env.test
